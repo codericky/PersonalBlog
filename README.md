@@ -1,5 +1,5 @@
-# [jonathantaylor.io](https://jonathantaylor.io/)
+# [Blog-rickynoviansyah](https://blog-rickynoviansyah.netlify.app/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7e308a34-0336-4a71-8804-5e8e795058e2/deploy-status)](https://app.netlify.com/sites/jonyonson/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/21432e78-5908-4a98-ba49-9f362fd69d22/deploy-status)](https://app.netlify.com/sites/blog-rickynoviansyah/deploys)
 
 My personal blog

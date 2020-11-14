@@ -9,12 +9,7 @@ class Footer extends Component {
         <div className="footer__container">
           <div>© {new Date().getFullYear()} Ricky Noviansyah</div>
           <div className="footer__social">
-            <a
-              className="footer__social__link"
-              href="https://github.com/codericky"
-            >
-              <FaGithub size={24} />
-            </a>
+   
             <a
               style={{ marginLeft: 24 }}
               className="footer__social__link"

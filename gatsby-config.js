@@ -3,7 +3,7 @@ module.exports = {
     title: 'Blog',
     author: 'Ricky noviansyah',
     description: 'The Homepage of Ricky noviansyah',
-    siteUrl: 'https://jonathantaylor.io/',
+    siteUrl: 'https://blog-rickynoviansyah.netlify.app/',
     social: {
       twitter: 'ricky',
       github: 'ricky',
