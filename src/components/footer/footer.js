@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { FaGithub, FaLinkedin, FaTwitter, FaInstagram, FaFacebook } from 'react-icons/fa';
+import { FaLinkedin, FaTwitter, FaInstagram, FaFacebook } from 'react-icons/fa';
 import './footer.scss';
 
 class Footer extends Component {
