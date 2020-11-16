@@ -1,6 +1,6 @@
 ---
 title: 'Command Git Fundamental'
-date: '2020-11-17'
+date: '2020-11-16'
 ---
 
 ##### halo apa kabar semoga baik baik saja nih xixi, kali ini mimint akan share mengenai perintah perintah github
